@@ -8,16 +8,13 @@
 - [Java](#Java)
 - [其他](#其他)
 
-## 基础
+## 操作系统
 #### 二进制
 * [一文读懂原码、反码与补码](https://segmentfault.com/a/1190000021511009)
 * [计算机底层为什么使用补码](https://juchia.com/2019/06/06/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%95%E5%B1%82%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8%E8%A1%A5%E7%A0%81/)
 
 #### 字符编码
 * [十分钟搞清字符集和字符编码](https://linux.cn/article-5027-1.html)
-
-## 操作系统
-
 
 ## 计算机网络
 
@@ -28,13 +25,28 @@
 
 
 ## Java
+#### OOP
+* [为什么说「组合优于继承」](https://leileiluoluo.com/posts/favor-composition-over-inheritance.html)
+* [深入理解Java的接口和抽象类
+](https://www.cnblogs.com/dolphin0520/p/3811437.html)
+* [接口与抽象类的应用（包括各自设计模式）](https://www.cnblogs.com/alsf/p/5533178.html)
+
 #### 异常
 * [Java应用架构中如何设计异常](https://mp.weixin.qq.com/s/OBlhCEsEwwXB7lHH3QSW0Q)
+
+#### 泛型
+
+#### 容器
+* [一不小心就让Java开发者踩坑的fail-fast是个什么鬼](https://mp.weixin.qq.com/s/rlzOQEyWnURFmWwmcoajBA)
+* [什么？for循环也会出问题？](https://mp.weixin.qq.com/s/F996MB4LUkPulQa4FZx07Q)
 
 #### 并发
 * [深入分析ThreadLocal的实现原理](https://www.cnblogs.com/tuyang1129/p/12713815.html)
 
+#### JVM
+
 ## 系统设计
+#### 分布式锁
 #### 分布式ID
 #### 权限系统
 
