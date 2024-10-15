@@ -35,6 +35,7 @@
 * [Java应用架构中如何设计异常](https://mp.weixin.qq.com/s/OBlhCEsEwwXB7lHH3QSW0Q)
 
 #### 泛型
+* [Java泛型类型擦除以及类型擦除带来的问题](https://www.cnblogs.com/wuqinglong/p/9456193.html)
 
 #### 容器
 * [一不小心就让Java开发者踩坑的fail-fast是个什么鬼](https://mp.weixin.qq.com/s/rlzOQEyWnURFmWwmcoajBA)
@@ -45,10 +46,15 @@
 
 #### JVM
 
+## 开发框架
+### Spring
+#### 
+
 ## 系统设计
+#### 权限系统
+* [转转统一权限系统的设计与实现-设计篇、](https://mp.weixin.qq.com/s/ONMuELjdHYa0yQceTj01Iw)[后端实现篇、](https://mp.weixin.qq.com/s/hFTDckfxhSnoM_McP18Vkg)[前端实现篇](https://mp.weixin.qq.com/s/a_P4JAwxgunhfmJvpBnWYA)
 #### 分布式锁
 #### 分布式ID
-#### 权限系统
 
 ## 高性能
 #### 负载均衡
