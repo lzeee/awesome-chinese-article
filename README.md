@@ -5,6 +5,7 @@
 - [操作系统](#操作系统)
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
+- [数据结构与算法](#数据结构与算法)
 - [Java](#Java)
 - [其他](#其他)
 
@@ -23,6 +24,8 @@
 #### 优化
 * [如何快速优化几千万数据量的订单表](https://www.cnblogs.com/fulongyuanjushi/p/17910420.html)
 
+## 数据结构与算法
+
 
 ## Java
 #### OOP
@@ -40,6 +43,7 @@
 #### 容器
 * [一不小心就让Java开发者踩坑的fail-fast是个什么鬼](https://mp.weixin.qq.com/s/rlzOQEyWnURFmWwmcoajBA)
 * [什么？for循环也会出问题？](https://mp.weixin.qq.com/s/F996MB4LUkPulQa4FZx07Q)
+* [Java 8系列之重新认识HashMap](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 
 #### 并发
 * [深入分析ThreadLocal的实现原理](https://www.cnblogs.com/tuyang1129/p/12713815.html)
