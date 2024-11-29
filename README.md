@@ -33,6 +33,7 @@
 * [深入理解Java的接口和抽象类
 ](https://www.cnblogs.com/dolphin0520/p/3811437.html)
 * [接口与抽象类的应用（包括各自设计模式）](https://www.cnblogs.com/alsf/p/5533178.html)
+* [Java的动态绑定和静态绑定](https://blog.yeskery.com/archives/java_static_bind_and_dynamic_bind.html)
 
 #### 异常
 * [Java应用架构中如何设计异常](https://mp.weixin.qq.com/s/OBlhCEsEwwXB7lHH3QSW0Q)
@@ -44,9 +45,11 @@
 * [一不小心就让Java开发者踩坑的fail-fast是个什么鬼](https://mp.weixin.qq.com/s/rlzOQEyWnURFmWwmcoajBA)
 * [什么？for循环也会出问题？](https://mp.weixin.qq.com/s/F996MB4LUkPulQa4FZx07Q)
 * [Java 8系列之重新认识HashMap](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+* [疫苗：Java HashMap的死循环](https://coolshell.cn/articles/9606.html)
 
 #### 并发
 * [深入分析ThreadLocal的实现原理](https://www.cnblogs.com/tuyang1129/p/12713815.html)
+* [线程池运用不当的一次线上事故](https://www.cnblogs.com/luojunwu/p/13099389.html)
 
 #### JVM
 
@@ -55,6 +58,8 @@
 #### 
 
 ## 系统设计
+#### 缓存
+* [缓存和数据库一致性问题，看这篇就够了](http://kaito-kidd.com/2021/09/08/how-to-keep-cache-and-consistency-of-db/)
 #### 权限系统
 * [转转统一权限系统的设计与实现-设计篇、](https://mp.weixin.qq.com/s/ONMuELjdHYa0yQceTj01Iw)[后端实现篇、](https://mp.weixin.qq.com/s/hFTDckfxhSnoM_McP18Vkg)[前端实现篇](https://mp.weixin.qq.com/s/a_P4JAwxgunhfmJvpBnWYA)
 #### 分布式锁
@@ -72,6 +77,5 @@
 * [高质量技术文章创作之方法论](https://mp.weixin.qq.com/s/QWaCjt8VlZsqytJvGLxe2A)
 
 #### 副业
-* [降级论](https://meditic.com/degrading-for-success)
-* [如何十年实现副业年入百万](https://blog.xption.com/2024-08-14/sideline-income/)
 * [万字泣血解析割韭菜内情，程序员别老想着做副业](https://www.cnblogs.com/fulongyuanjushi/p/16843513.html)
+* [降级论](https://meditic.com/degrading-for-success)
